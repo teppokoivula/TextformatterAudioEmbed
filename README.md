@@ -14,3 +14,9 @@ Note that URLs need to be the only content within a paragraph tag. You can use a
 <p>Dude, where's my https://www.domain.tld/path/to/car.mp3</p>
 <p>/some/other/path/file.mp3</p>
 ```
+
+Supported audio file formats:
+
+* .mp3 (audio/mpeg)
+* .ogg (audio/ogg)
+* .wav (audio/wav)
